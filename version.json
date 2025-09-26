@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.3/VideoGeneratorPro_v1.0.3_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.3/VideoGeneratorPro_v1.0.3_Full_Installer.zip",
+  "version": "1.0.4",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.4/VideoGeneratorPro_v1.0.4_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.4/VideoGeneratorPro_v1.0.4_setup_Full_Installer.zip",
   "notes": "- Fitur baru X.\n- Perbaikan bug Y."
 }
