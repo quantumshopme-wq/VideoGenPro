@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.7/VideoGeneratorPro_v1.0.7_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.7/VideoGeneratorPro_v1.0.7_setup_Full_Installer.zip",
-  "notes": "-Perbaikan bug kritis saat start up, perbaikan fitur remove watermark."
+  "version": "1.0.8",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.8/VideoGeneratorPro_v1.0.8_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.8/VideoGeneratorPro_v1.0.8_setup_Full_Installer.zip",
+  "notes": "Fitur random fonts dan colors untuk Text Watermark,\n Penambahan login screen"
 }
