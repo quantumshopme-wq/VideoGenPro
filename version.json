@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.8/VideoGeneratorPro_v1.0.8_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.8/VideoGeneratorPro_v1.0.8_setup_Full_Installer.zip",
-  "notes": "Fitur random fonts dan colors untuk Text Watermark,\n Penambahan login screen"
+  "version": "1.0.9",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.9/VideoGeneratorPro_v1.0.9_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.9/VideoGeneratorPro_v1.0.9_setup_Full_Installer.zip",
+  "notes": "Penambahan opsi random speed 1.1 - 1.5,\n Perbaikan text watermark agar lebih proporsional,\n Perbaikan Default output setting menjadi 1080p"
 }
