@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.10/VideoGeneratorPro_v1.0.10_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.10/VideoGeneratorPro_v1.0.10_setup_Full_Installer.zip",
-  "notes": "Perbaikan bug pada output setting, Peningkatan security agar dapat berjalan di RDP, Peningkatan konversi file .mp4 sebagai audio voice over, Penambahan fitur hapus metadata, Upgrade model ai dari medium ke Large"
+  "version": "1.0.11",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.11/VideoGeneratorPro_v1.0.11_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.11/VideoGeneratorPro_v1.0.11_setup_Full_Installer.zip",
+  "notes": "Bug fixed KRITIS untuk model ai large file selalu corrupt, Bug fixed generate dengan GPU AMD tidak muncul audio, Bug fixed KRITIS untuk fitur hapus metadata"
 }
