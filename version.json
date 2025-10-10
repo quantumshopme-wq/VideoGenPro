@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.13/VideoGeneratorPro_v1.0.13_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.13/VideoGeneratorPro_v1.0.13_setup_Full_Installer.zip",
-  "notes": "Meperkuat logika untuk menghasilkan Video yang benar-benar unik dan fresh di mata platform, Penambahan font caption, bisa memilih font sendiri, Perbaikan fungsi auto caption bisa per segment dan efek highligt per kata, Peningkatan pada Hook Video, dapat memilih beberapa hook video"
+  "version": "1.0.14",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.14/VideoGeneratorPro_v1.0.14_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.14/VideoGeneratorPro_v1.0.14_setup_Full_Installer.zip",
+  "notes": "Bug fixed Video Hook, Perbaikan Text Watermark"
   }
