@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.17/VideoGeneratorPro_v1.0.17_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.17/VideoGeneratorPro_v1.0.17_setup_Full_Installer.zip",
-  "notes": "Penambahan 3D Render pada Image Overlay, Penambahan Opsi random dan custom pada Image Overlay, Perbaikan kecepatan Generate, Penambahan opsi Hook video sebagai Intro"
+  "version": "1.0.18",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.18/VideoGeneratorPro_v1.0.18_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.18/VideoGeneratorPro_v1.0.18_setup_Full_Installer.zip",
+  "notes": "Bug Fix durasi Video tidak sama dengan durasi VO"
   }
