@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.18/VideoGeneratorPro_v1.0.18_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.18/VideoGeneratorPro_v1.0.18_setup_Full_Installer.zip",
-  "notes": "Bug Fix durasi Video tidak sama dengan durasi VO"
+  "version": "1.0.19",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.19/VideoGeneratorPro_v1.0.19_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.19/VideoGeneratorPro_v1.0.19_setup.exe",
+  "notes": "Perbaikan FINAL bug durasi hasil video tidak sama dengan durasi VO, Perbaikan bug yang memakan memory 8x saat proses generate hook video"
   }
