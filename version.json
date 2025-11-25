@@ -1,6 +1,6 @@
 {
-  "version": "1.0.21",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.21/VideoGeneratorPro_v1.0.21_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.21/VideoGeneratorPro_v1.0.21_setup_Full_Installer.zip",
-  "notes": "Penambahan Opsi Video Sandwhich (Video Overlay), Penambahan opsi random mirror"
+  "version": "1.0.22",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.22/VideoGeneratorPro_v1.0.22_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.22/VideoGeneratorPro_v1.0.22_setup_Full_Installer.zip",
+  "notes": "Bug Fixed FFMPEG Error, Bug Fixed Double overlay video Hook, Bug Fixed Render dengan GPU AMD"
   }
