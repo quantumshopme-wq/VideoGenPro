@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
-  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.22/VideoGeneratorPro_v1.0.22_update.exe",
-  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.22/VideoGeneratorPro_v1.0.22_setup_Full_Installer.zip",
-  "notes": "Bug Fixed FFMPEG Error, Bug Fixed Double overlay video Hook, Bug Fixed Render dengan GPU AMD"
+  "version": "1.0.23",
+  "patch_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.23/VideoGeneratorPro_v1.0.23_update.exe",
+  "full_url": "https://github.com/quantumshopme-wq/VideoGenPro/releases/download/v1.0.23/VideoGeneratorPro_v1.0.23_setup_Full_Installer.zip",
+  "notes": "Bug Fixed Generate Sumber Video Rekam dari Kamera, Bug Fixed GPU Intel, Peningkatan Spoof Metadata (hasil generate video 100% unik di mata bot)"
   }
